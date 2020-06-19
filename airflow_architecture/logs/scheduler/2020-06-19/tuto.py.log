@@ -1,0 +1,260 @@
+[2020-06-19 18:47:14,735] {{scheduler_job.py:154}} INFO - Started process (PID=149) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:14,741] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:14,743] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:14,742] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:14,770] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:14,857] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.122 seconds
+[2020-06-19 18:47:15,671] {{scheduler_job.py:154}} INFO - Started process (PID=159) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:15,687] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:15,688] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:15,688] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:15,721] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:15,793] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.122 seconds
+[2020-06-19 18:47:16,693] {{scheduler_job.py:154}} INFO - Started process (PID=169) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:16,700] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:16,705] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:16,705] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:16,731] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:16,810] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.118 seconds
+[2020-06-19 18:47:17,706] {{scheduler_job.py:154}} INFO - Started process (PID=179) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:17,725] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:17,727] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:17,726] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:17,761] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:17,857] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.152 seconds
+[2020-06-19 18:47:18,708] {{scheduler_job.py:154}} INFO - Started process (PID=189) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:18,715] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:18,720] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:18,720] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:18,769] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:18,873] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.165 seconds
+[2020-06-19 18:47:19,716] {{scheduler_job.py:154}} INFO - Started process (PID=199) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:19,722] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:19,724] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:19,723] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:19,738] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:19,788] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.072 seconds
+[2020-06-19 18:47:20,744] {{scheduler_job.py:154}} INFO - Started process (PID=209) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:20,748] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:20,750] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:20,750] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:20,778] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:20,833] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.090 seconds
+[2020-06-19 18:47:21,762] {{scheduler_job.py:154}} INFO - Started process (PID=219) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:21,768] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:21,770] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:21,770] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:21,784] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:21,833] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.071 seconds
+[2020-06-19 18:47:22,763] {{scheduler_job.py:154}} INFO - Started process (PID=229) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:22,775] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:22,776] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:22,776] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:22,792] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:22,845] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.081 seconds
+[2020-06-19 18:47:23,783] {{scheduler_job.py:154}} INFO - Started process (PID=239) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:23,789] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:23,791] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:23,790] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:23,804] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:23,862] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.079 seconds
+[2020-06-19 18:47:24,813] {{scheduler_job.py:154}} INFO - Started process (PID=249) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:24,818] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:24,820] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:24,820] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:24,836] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:24,879] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.066 seconds
+[2020-06-19 18:47:25,828] {{scheduler_job.py:154}} INFO - Started process (PID=259) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:25,835] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:25,836] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:25,836] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:25,851] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:25,902] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.074 seconds
+[2020-06-19 18:47:26,843] {{scheduler_job.py:154}} INFO - Started process (PID=269) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:26,851] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:26,853] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:26,852] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:26,874] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:26,930] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.087 seconds
+[2020-06-19 18:47:27,857] {{scheduler_job.py:154}} INFO - Started process (PID=279) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:27,862] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:27,864] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:27,864] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:27,878] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:27,928] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.070 seconds
+[2020-06-19 18:47:28,899] {{scheduler_job.py:154}} INFO - Started process (PID=289) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:28,910] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:28,914] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:28,914] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:28,965] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:29,099] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.201 seconds
+[2020-06-19 18:47:29,886] {{scheduler_job.py:154}} INFO - Started process (PID=299) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:29,899] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:29,901] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:29,901] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:29,924] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:30,005] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.120 seconds
+[2020-06-19 18:47:30,901] {{scheduler_job.py:154}} INFO - Started process (PID=309) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:30,906] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:30,909] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:30,909] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:30,929] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:30,993] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.093 seconds
+[2020-06-19 18:47:31,903] {{scheduler_job.py:154}} INFO - Started process (PID=319) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:31,914] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:31,915] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:31,915] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:31,934] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:31,985] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.083 seconds
+[2020-06-19 18:47:32,919] {{scheduler_job.py:154}} INFO - Started process (PID=329) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:32,929] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:32,931] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:32,930] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:32,952] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:33,039] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.119 seconds
+[2020-06-19 18:47:33,939] {{scheduler_job.py:154}} INFO - Started process (PID=339) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:33,946] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:33,947] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:33,947] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:33,964] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:34,022] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.083 seconds
+[2020-06-19 18:47:34,957] {{scheduler_job.py:154}} INFO - Started process (PID=349) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:34,962] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:34,964] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:34,964] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:34,986] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:35,065] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.108 seconds
+[2020-06-19 18:47:35,969] {{scheduler_job.py:154}} INFO - Started process (PID=359) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:35,975] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:35,976] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:35,976] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:35,990] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:36,090] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.122 seconds
+[2020-06-19 18:47:36,995] {{scheduler_job.py:154}} INFO - Started process (PID=369) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:37,002] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:37,004] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:37,004] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:37,024] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:37,091] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.096 seconds
+[2020-06-19 18:47:38,005] {{scheduler_job.py:154}} INFO - Started process (PID=379) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:38,012] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:38,015] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:38,014] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:38,034] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:38,129] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.124 seconds
+[2020-06-19 18:47:39,010] {{scheduler_job.py:154}} INFO - Started process (PID=389) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:39,019] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:39,020] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:39,020] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:39,036] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:39,090] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.080 seconds
+[2020-06-19 18:47:40,021] {{scheduler_job.py:154}} INFO - Started process (PID=399) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:40,026] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:40,028] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:40,028] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:40,043] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:40,091] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.070 seconds
+[2020-06-19 18:47:41,034] {{scheduler_job.py:154}} INFO - Started process (PID=409) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:41,039] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:41,041] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:41,041] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:41,058] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:41,115] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.081 seconds
+[2020-06-19 18:47:42,042] {{scheduler_job.py:154}} INFO - Started process (PID=419) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:42,048] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:42,050] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:42,050] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:42,066] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:42,116] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.075 seconds
+[2020-06-19 18:47:43,055] {{scheduler_job.py:154}} INFO - Started process (PID=429) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:43,068] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:43,070] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:43,069] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:43,088] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:43,153] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.098 seconds
+[2020-06-19 18:47:44,065] {{scheduler_job.py:154}} INFO - Started process (PID=439) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:44,070] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:44,071] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:44,071] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:44,088] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:44,146] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.081 seconds
+[2020-06-19 18:47:45,087] {{scheduler_job.py:154}} INFO - Started process (PID=449) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:45,091] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:45,093] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:45,093] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:45,107] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:45,161] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.074 seconds
+[2020-06-19 18:47:46,100] {{scheduler_job.py:154}} INFO - Started process (PID=459) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:46,106] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:46,108] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:46,107] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:46,124] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:46,183] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.084 seconds
+[2020-06-19 18:47:47,114] {{scheduler_job.py:154}} INFO - Started process (PID=469) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:47,122] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:47,124] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:47,124] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:47,147] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:47,233] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.118 seconds
+[2020-06-19 18:47:48,118] {{scheduler_job.py:154}} INFO - Started process (PID=479) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:48,124] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:48,125] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:48,125] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:48,144] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:48,199] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.080 seconds
+[2020-06-19 18:47:49,135] {{scheduler_job.py:154}} INFO - Started process (PID=489) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:49,142] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:49,144] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:49,143] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:49,158] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:49,206] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.071 seconds
+[2020-06-19 18:47:50,175] {{scheduler_job.py:154}} INFO - Started process (PID=499) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:50,184] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:50,186] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:50,185] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:50,211] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:50,331] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.156 seconds
+[2020-06-19 18:47:51,194] {{scheduler_job.py:154}} INFO - Started process (PID=509) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:51,208] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:51,211] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:51,211] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:51,249] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:51,364] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.170 seconds
+[2020-06-19 18:47:52,181] {{scheduler_job.py:154}} INFO - Started process (PID=519) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:52,186] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:52,188] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:52,188] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:52,203] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:52,250] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.069 seconds
+[2020-06-19 18:47:53,190] {{scheduler_job.py:154}} INFO - Started process (PID=529) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:53,195] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:53,196] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:53,196] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:53,211] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:53,263] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.073 seconds
+[2020-06-19 18:47:54,250] {{scheduler_job.py:154}} INFO - Started process (PID=539) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:54,255] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:54,256] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:54,256] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:54,272] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:54,319] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.069 seconds
+[2020-06-19 18:47:55,270] {{scheduler_job.py:154}} INFO - Started process (PID=549) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:55,276] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:55,277] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:55,277] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:55,303] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:55,365] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.094 seconds
+[2020-06-19 18:47:56,274] {{scheduler_job.py:154}} INFO - Started process (PID=559) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:56,282] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:56,286] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:56,286] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:56,302] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:56,357] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.083 seconds
+[2020-06-19 18:47:57,283] {{scheduler_job.py:154}} INFO - Started process (PID=569) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:57,288] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:57,290] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:57,289] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:57,311] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:57,366] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.083 seconds
+[2020-06-19 18:47:58,297] {{scheduler_job.py:154}} INFO - Started process (PID=579) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:58,303] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:58,305] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:58,305] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:58,319] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:58,384] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.087 seconds
+[2020-06-19 18:47:59,333] {{scheduler_job.py:154}} INFO - Started process (PID=589) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:59,348] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:47:59,353] {{logging_mixin.py:112}} INFO - [2020-06-19 18:47:59,353] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:59,382] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:47:59,467] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.134 seconds
+[2020-06-19 18:48:00,340] {{scheduler_job.py:154}} INFO - Started process (PID=599) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:00,348] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:00,350] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:00,350] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:00,370] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:00,444] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.104 seconds
+[2020-06-19 18:48:01,354] {{scheduler_job.py:154}} INFO - Started process (PID=609) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:01,364] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:01,366] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:01,365] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:01,382] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:01,427] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.073 seconds
+[2020-06-19 18:48:02,373] {{scheduler_job.py:154}} INFO - Started process (PID=619) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:02,380] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:02,382] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:02,382] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:02,402] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:02,456] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.084 seconds
+[2020-06-19 18:48:03,382] {{scheduler_job.py:154}} INFO - Started process (PID=629) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:03,388] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:03,390] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:03,390] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:03,404] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:03,465] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.083 seconds
+[2020-06-19 18:48:04,397] {{scheduler_job.py:154}} INFO - Started process (PID=639) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:04,403] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:04,406] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:04,405] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:04,423] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:04,478] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.081 seconds
+[2020-06-19 18:48:05,420] {{scheduler_job.py:154}} INFO - Started process (PID=649) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:05,426] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:05,428] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:05,428] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:05,443] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:05,500] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.080 seconds
+[2020-06-19 18:48:06,432] {{scheduler_job.py:154}} INFO - Started process (PID=659) to work on /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:06,437] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/tuto.py for tasks to queue
+[2020-06-19 18:48:06,440] {{logging_mixin.py:112}} INFO - [2020-06-19 18:48:06,439] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:06,456] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /usr/local/airflow/dags/tuto.py
+[2020-06-19 18:48:06,511] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/tuto.py took 0.079 seconds
