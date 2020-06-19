@@ -1,0 +1,46 @@
+version: '2.1'
+
+services:
+
+  postgres_db:
+    build:
+      context: ./metadatabase
+      dockerfile: Dockerfile
+    image: postgres_db
+    container_name: airflow_metadatabase
+    ports:
+      - "5432:5432"
+
+  webserver:
+    build:
+      context: ./webserver
+      dockerfile: Dockerfile
+    image: airflow_webserver
+    container_name: airflow_webserver
+    restart: always
+    depends_on:
+      - postgres_db
+    volumes:
+      - ./dags:/usr/local/airflow/dags
+      - ./logs:/usr/local/airflow/logs
+      - ./airflow.cfg:/usr/local/airflow/airflow.cfg
+    entrypoint: ""
+    ports:
+      - "8080:8080"
+    command: bash -c "airflow initdb && airflow webserver"
+
+  scheduler:
+    build:
+      context: ./scheduler
+      dockerfile: Dockerfile
+    image: airflow_scheduler
+    container_name: airflow_scheduler
+    restart: always
+    depends_on:
+      - webserver
+    volumes:
+      - ./dags:/usr/local/airflow/dags
+      - ./logs:/usr/local/airflow/logs
+      - ./airflow.cfg:/usr/local/airflow/airflow.cfg
+    command: bash -c "airflow scheduler"
+
