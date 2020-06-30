@@ -1,0 +1,891 @@
+[2020-06-30 10:33:45,648] {{scheduler_job.py:154}} INFO - Started process (PID=149) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:45,656] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:45,658] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:45,657] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:45,666] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:45,666] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:45,729] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:45,729] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:45,783] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:45,845] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:45,856] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:45,863] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.214 seconds
+[2020-06-30 10:33:46,608] {{scheduler_job.py:154}} INFO - Started process (PID=154) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:46,614] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:46,616] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:46,616] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:46,624] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:46,624] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:46,659] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:46,659] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:46,706] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:46,775] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:46,786] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:46,793] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.185 seconds
+[2020-06-30 10:33:47,608] {{scheduler_job.py:154}} INFO - Started process (PID=159) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:47,613] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:47,614] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:47,614] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:47,626] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:47,626] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:47,670] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:47,670] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:47,718] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:47,780] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:47,790] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:47,796] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.188 seconds
+[2020-06-30 10:33:48,615] {{scheduler_job.py:154}} INFO - Started process (PID=164) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:48,620] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:48,622] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:48,622] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:48,634] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:48,634] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:48,665] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:48,664] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:48,709] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:48,785] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:48,794] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:48,800] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.186 seconds
+[2020-06-30 10:33:49,623] {{scheduler_job.py:154}} INFO - Started process (PID=169) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:49,628] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:49,632] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:49,631] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:49,640] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:49,640] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:49,672] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:49,672] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:49,709] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:49,799] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:49,809] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:49,815] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.191 seconds
+[2020-06-30 10:33:50,664] {{scheduler_job.py:154}} INFO - Started process (PID=174) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:50,678] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:50,683] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:50,683] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:50,701] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:50,701] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:50,772] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:50,771] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:50,823] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:50,951] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:50,966] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:50,974] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.311 seconds
+[2020-06-30 10:33:51,656] {{scheduler_job.py:154}} INFO - Started process (PID=179) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:51,662] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:51,664] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:51,664] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:51,673] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:51,673] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:51,706] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:51,706] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:51,751] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:51,808] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:51,815] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:51,820] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.164 seconds
+[2020-06-30 10:33:52,671] {{scheduler_job.py:154}} INFO - Started process (PID=184) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:52,676] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:52,678] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:52,678] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:52,687] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:52,687] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:52,723] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:52,723] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:52,765] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:52,822] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:52,830] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:52,835] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.164 seconds
+[2020-06-30 10:33:53,668] {{scheduler_job.py:154}} INFO - Started process (PID=189) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:53,673] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:53,675] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:53,675] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:53,684] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:53,683] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:53,726] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:53,726] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:53,767] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:53,831] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:53,838] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:53,844] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.176 seconds
+[2020-06-30 10:33:54,686] {{scheduler_job.py:154}} INFO - Started process (PID=194) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:54,692] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:54,694] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:54,694] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:54,704] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:54,703] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:54,736] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:54,736] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:54,775] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:54,830] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:54,837] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:54,842] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.156 seconds
+[2020-06-30 10:33:55,716] {{scheduler_job.py:154}} INFO - Started process (PID=199) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:55,722] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:55,724] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:55,723] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:55,732] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:55,731] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:55,766] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:55,766] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:55,802] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:55,858] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:55,866] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:55,871] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.156 seconds
+[2020-06-30 10:33:56,747] {{scheduler_job.py:154}} INFO - Started process (PID=204) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:56,752] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:56,754] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:56,754] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:56,763] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:56,763] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:56,798] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:56,798] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:56,837] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:56,895] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:56,903] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:56,908] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.161 seconds
+[2020-06-30 10:33:57,734] {{scheduler_job.py:154}} INFO - Started process (PID=209) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:57,739] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:57,741] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:57,740] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:57,749] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:57,748] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:57,786] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:57,786] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:57,824] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:57,885] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:57,891] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:57,897] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.164 seconds
+[2020-06-30 10:33:58,762] {{scheduler_job.py:154}} INFO - Started process (PID=214) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:58,768] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:58,769] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:58,769] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:58,779] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:58,779] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:58,814] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:58,814] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:58,862] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:58,924] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:58,931] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:58,936] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.174 seconds
+[2020-06-30 10:33:59,754] {{scheduler_job.py:154}} INFO - Started process (PID=219) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:59,760] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:33:59,761] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:59,761] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:59,770] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:59,770] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:33:59,807] {{logging_mixin.py:112}} INFO - [2020-06-30 10:33:59,807] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:33:59,851] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:33:59,911] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:33:59,919] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:33:59,924] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.170 seconds
+[2020-06-30 10:34:00,778] {{scheduler_job.py:154}} INFO - Started process (PID=224) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:00,793] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:00,795] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:00,795] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:00,809] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:00,808] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:00,919] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:00,919] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:01,019] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:01,148] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:01,161] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:01,172] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.394 seconds
+[2020-06-30 10:34:01,770] {{scheduler_job.py:154}} INFO - Started process (PID=229) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:01,775] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:01,777] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:01,776] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:01,785] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:01,785] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:01,821] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:01,821] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:01,864] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:01,923] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:01,930] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:01,936] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.166 seconds
+[2020-06-30 10:34:02,793] {{scheduler_job.py:154}} INFO - Started process (PID=234) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:02,800] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:02,802] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:02,802] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:02,810] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:02,810] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:02,842] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:02,842] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:02,878] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:02,945] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:02,952] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:02,958] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.166 seconds
+[2020-06-30 10:34:03,797] {{scheduler_job.py:154}} INFO - Started process (PID=239) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:03,802] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:03,803] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:03,803] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:03,811] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:03,811] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:03,849] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:03,849] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:03,886] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:03,948] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:03,955] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:03,960] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.163 seconds
+[2020-06-30 10:34:04,824] {{scheduler_job.py:154}} INFO - Started process (PID=244) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:04,830] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:04,832] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:04,832] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:04,842] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:04,842] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:04,873] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:04,873] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:04,910] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:04,968] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:04,974] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:04,980] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.156 seconds
+[2020-06-30 10:34:05,833] {{scheduler_job.py:154}} INFO - Started process (PID=249) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:05,838] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:05,840] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:05,840] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:05,847] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:05,847] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:05,880] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:05,880] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:05,920] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:05,977] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:05,984] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:05,990] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.156 seconds
+[2020-06-30 10:34:06,853] {{scheduler_job.py:154}} INFO - Started process (PID=254) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:06,857] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:06,859] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:06,859] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:06,866] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:06,866] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:06,901] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:06,901] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:06,941] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:07,007] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:07,014] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:07,019] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.167 seconds
+[2020-06-30 10:34:07,862] {{scheduler_job.py:154}} INFO - Started process (PID=259) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:07,871] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:07,872] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:07,872] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:07,879] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:07,879] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:07,910] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:07,909] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:07,948] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:08,004] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:08,011] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:08,017] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.154 seconds
+[2020-06-30 10:34:08,873] {{scheduler_job.py:154}} INFO - Started process (PID=264) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:08,882] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:08,884] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:08,884] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:08,902] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:08,902] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:08,941] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:08,941] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:08,984] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:09,046] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:09,053] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:09,058] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.186 seconds
+[2020-06-30 10:34:09,888] {{scheduler_job.py:154}} INFO - Started process (PID=269) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:09,893] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:09,895] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:09,895] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:09,903] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:09,903] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:09,938] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:09,938] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:09,979] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:10,044] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:10,052] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:10,057] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.169 seconds
+[2020-06-30 10:34:10,884] {{scheduler_job.py:154}} INFO - Started process (PID=274) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:10,891] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:10,893] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:10,892] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:10,900] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:10,900] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:10,933] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:10,933] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:10,974] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:11,030] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:11,037] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:11,042] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.158 seconds
+[2020-06-30 10:34:11,909] {{scheduler_job.py:154}} INFO - Started process (PID=279) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:11,914] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:11,916] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:11,915] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:11,925] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:11,925] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:11,958] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:11,958] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:11,998] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:12,065] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:12,074] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:12,080] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.171 seconds
+[2020-06-30 10:34:12,926] {{scheduler_job.py:154}} INFO - Started process (PID=284) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:12,933] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:12,935] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:12,934] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:12,943] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:12,943] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:12,974] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:12,974] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:13,014] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:13,072] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:13,078] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:13,083] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.157 seconds
+[2020-06-30 10:34:13,949] {{scheduler_job.py:154}} INFO - Started process (PID=289) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:13,954] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:13,956] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:13,956] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:13,964] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:13,964] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:13,996] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:13,995] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:14,042] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:14,105] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:14,113] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:14,118] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.169 seconds
+[2020-06-30 10:34:14,960] {{scheduler_job.py:154}} INFO - Started process (PID=294) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:14,964] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:14,966] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:14,966] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:14,973] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:14,973] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:15,005] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:15,004] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:15,048] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:15,107] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:15,116] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:15,121] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.161 seconds
+[2020-06-30 10:34:15,979] {{scheduler_job.py:154}} INFO - Started process (PID=299) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:15,984] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:15,985] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:15,985] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:15,994] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:15,993] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:16,031] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:16,031] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:16,103] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:16,199] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:16,207] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:16,212] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.233 seconds
+[2020-06-30 10:34:17,008] {{scheduler_job.py:154}} INFO - Started process (PID=304) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:17,013] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:17,014] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:17,014] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:17,022] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:17,022] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:17,062] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:17,062] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:17,100] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:17,161] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:17,168] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:17,172] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.165 seconds
+[2020-06-30 10:34:17,998] {{scheduler_job.py:154}} INFO - Started process (PID=309) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:18,004] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:18,007] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:18,007] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:18,017] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:18,017] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:18,057] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:18,057] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:18,099] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:18,172] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:18,182] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:18,188] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.190 seconds
+[2020-06-30 10:34:19,003] {{scheduler_job.py:154}} INFO - Started process (PID=314) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:19,008] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:19,010] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:19,010] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:19,019] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:19,019] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:19,062] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:19,062] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:19,103] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:19,166] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:19,173] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:19,179] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.176 seconds
+[2020-06-30 10:34:20,017] {{scheduler_job.py:154}} INFO - Started process (PID=319) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:20,023] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:20,028] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:20,027] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:20,041] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:20,041] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:20,092] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:20,092] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:20,155] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:20,219] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:20,229] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:20,235] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.218 seconds
+[2020-06-30 10:34:21,023] {{scheduler_job.py:154}} INFO - Started process (PID=324) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:21,030] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:21,031] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:21,031] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:21,040] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:21,039] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:21,080] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:21,080] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:21,123] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:21,183] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:21,190] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:21,196] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:34:22,030] {{scheduler_job.py:154}} INFO - Started process (PID=329) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:22,035] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:22,036] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:22,036] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:22,046] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:22,045] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:22,091] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:22,091] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:22,143] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:22,211] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:22,222] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:22,232] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.201 seconds
+[2020-06-30 10:34:23,040] {{scheduler_job.py:154}} INFO - Started process (PID=334) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:23,046] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:23,048] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:23,047] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:23,057] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:23,056] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:23,097] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:23,097] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:23,138] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:23,209] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:23,220] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:23,227] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.188 seconds
+[2020-06-30 10:34:24,052] {{scheduler_job.py:154}} INFO - Started process (PID=339) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:24,057] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:24,059] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:24,059] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:24,067] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:24,067] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:24,108] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:24,108] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:24,153] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:24,218] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:24,228] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:24,233] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.181 seconds
+[2020-06-30 10:34:25,073] {{scheduler_job.py:154}} INFO - Started process (PID=344) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:25,079] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:25,081] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:25,081] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:25,090] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:25,090] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:25,124] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:25,124] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:25,167] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:25,225] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:25,232] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:25,236] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.164 seconds
+[2020-06-30 10:34:26,075] {{scheduler_job.py:154}} INFO - Started process (PID=349) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:26,081] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:26,083] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:26,083] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:26,090] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:26,090] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:26,125] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:26,125] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:26,163] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:26,220] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:26,227] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:26,233] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.157 seconds
+[2020-06-30 10:34:27,090] {{scheduler_job.py:154}} INFO - Started process (PID=354) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:27,096] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:27,098] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:27,097] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:27,108] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:27,108] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:27,160] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:27,160] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:27,210] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:27,276] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:27,284] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:27,291] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.201 seconds
+[2020-06-30 10:34:28,093] {{scheduler_job.py:154}} INFO - Started process (PID=359) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:28,098] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:28,100] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:28,099] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:28,108] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:28,108] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:28,151] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:28,151] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:28,193] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:28,260] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:28,268] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:28,274] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.181 seconds
+[2020-06-30 10:34:29,096] {{scheduler_job.py:154}} INFO - Started process (PID=364) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:29,103] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:29,104] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:29,104] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:29,112] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:29,112] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:29,159] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:29,159] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:29,222] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:29,295] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:29,304] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:29,309] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.213 seconds
+[2020-06-30 10:34:30,120] {{scheduler_job.py:154}} INFO - Started process (PID=369) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:30,126] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:30,129] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:30,128] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:30,136] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:30,136] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:30,170] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:30,170] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:30,209] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:30,266] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:30,273] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:30,278] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.158 seconds
+[2020-06-30 10:34:31,120] {{scheduler_job.py:154}} INFO - Started process (PID=374) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:31,124] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:31,131] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:31,129] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:31,141] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:31,140] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:31,194] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:31,194] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:31,422] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:31,739] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:31,764] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:31,776] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.656 seconds
+[2020-06-30 10:34:32,132] {{scheduler_job.py:154}} INFO - Started process (PID=379) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:32,142] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:32,144] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:32,144] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:32,163] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:32,160] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:32,251] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:32,251] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:32,325] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:32,411] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:32,423] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:32,432] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.300 seconds
+[2020-06-30 10:34:33,135] {{scheduler_job.py:154}} INFO - Started process (PID=384) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:33,140] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:33,142] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:33,141] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:33,152] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:33,151] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:33,187] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:33,187] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:33,239] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:33,306] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:33,318] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:33,324] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.190 seconds
+[2020-06-30 10:34:34,147] {{scheduler_job.py:154}} INFO - Started process (PID=389) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:34,154] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:34,156] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:34,155] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:34,164] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:34,164] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:34,199] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:34,199] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:34,243] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:34,308] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:34,318] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:34,324] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.177 seconds
+[2020-06-30 10:34:35,164] {{scheduler_job.py:154}} INFO - Started process (PID=394) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:35,171] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:35,173] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:35,173] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:35,180] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:35,180] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:35,214] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:35,214] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:35,257] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:35,321] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:35,331] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:35,337] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:34:36,173] {{scheduler_job.py:154}} INFO - Started process (PID=399) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:36,181] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:36,183] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:36,183] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:36,195] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:36,194] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:36,243] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:36,243] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:36,302] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:36,411] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:36,419] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:36,427] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.254 seconds
+[2020-06-30 10:34:37,185] {{scheduler_job.py:154}} INFO - Started process (PID=404) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:37,201] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:37,206] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:37,206] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:37,216] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:37,216] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:37,258] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:37,258] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:37,316] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:37,387] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:37,396] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:37,402] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.217 seconds
+[2020-06-30 10:34:38,209] {{scheduler_job.py:154}} INFO - Started process (PID=409) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:38,215] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:38,216] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:38,216] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:38,229] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:38,229] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:38,263] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:38,263] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:38,305] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:38,361] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:38,367] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:38,372] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.163 seconds
+[2020-06-30 10:34:39,213] {{scheduler_job.py:154}} INFO - Started process (PID=414) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:39,221] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:39,223] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:39,223] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:39,231] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:39,231] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:39,269] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:39,269] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:39,311] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:39,373] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:39,380] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:39,386] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:34:40,218] {{scheduler_job.py:154}} INFO - Started process (PID=419) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:40,223] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:40,225] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:40,224] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:40,232] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:40,232] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:40,264] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:40,264] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:40,301] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:40,363] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:40,370] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:40,376] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.158 seconds
+[2020-06-30 10:34:41,226] {{scheduler_job.py:154}} INFO - Started process (PID=424) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:41,231] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:41,233] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:41,232] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:41,241] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:41,240] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:41,278] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:41,278] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:41,324] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:41,390] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:41,397] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:41,404] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.178 seconds
+[2020-06-30 10:34:42,241] {{scheduler_job.py:154}} INFO - Started process (PID=429) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:42,248] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:42,250] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:42,249] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:42,257] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:42,257] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:42,295] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:42,295] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:42,345] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:42,437] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:42,445] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:42,453] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.212 seconds
+[2020-06-30 10:34:43,257] {{scheduler_job.py:154}} INFO - Started process (PID=434) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:43,262] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:43,264] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:43,264] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:43,272] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:43,272] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:43,307] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:43,306] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:43,349] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:43,408] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:43,416] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:43,423] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.166 seconds
+[2020-06-30 10:34:44,261] {{scheduler_job.py:154}} INFO - Started process (PID=439) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:44,272] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:44,274] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:44,274] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:44,300] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:44,299] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:44,374] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:44,374] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:44,429] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:44,528] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:44,539] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:44,547] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.286 seconds
+[2020-06-30 10:34:45,267] {{scheduler_job.py:154}} INFO - Started process (PID=444) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:45,273] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:45,275] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:45,274] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:45,286] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:45,286] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:45,324] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:45,323] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:45,364] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:45,429] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:45,437] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:45,442] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.175 seconds
+[2020-06-30 10:34:46,286] {{scheduler_job.py:154}} INFO - Started process (PID=449) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:46,291] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:46,293] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:46,293] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:46,304] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:46,304] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:46,342] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:46,342] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:46,383] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:46,455] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:46,467] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:46,472] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.186 seconds
+[2020-06-30 10:34:47,309] {{scheduler_job.py:154}} INFO - Started process (PID=454) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:47,317] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:47,319] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:47,318] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:47,327] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:47,327] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:47,361] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:47,361] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:47,408] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:47,471] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:47,480] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:47,485] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.177 seconds
+[2020-06-30 10:34:48,324] {{scheduler_job.py:154}} INFO - Started process (PID=459) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:48,331] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:48,333] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:48,332] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:48,343] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:48,342] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:48,380] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:48,380] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:48,424] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:48,482] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:48,488] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:48,493] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.170 seconds
+[2020-06-30 10:34:49,340] {{scheduler_job.py:154}} INFO - Started process (PID=464) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:49,345] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:49,347] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:49,347] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:49,355] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:49,355] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:49,390] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:49,390] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:49,433] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:49,497] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:49,504] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:49,509] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.169 seconds
+[2020-06-30 10:34:50,357] {{scheduler_job.py:154}} INFO - Started process (PID=469) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:50,362] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:50,363] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:50,363] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:50,370] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:50,370] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:50,401] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:50,401] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:50,442] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:50,501] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:50,509] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:50,514] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.157 seconds
+[2020-06-30 10:34:51,350] {{scheduler_job.py:154}} INFO - Started process (PID=474) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:51,355] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:51,357] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:51,357] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:51,365] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:51,365] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:51,404] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:51,404] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:51,447] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:51,511] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:51,518] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:51,523] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:34:52,380] {{scheduler_job.py:154}} INFO - Started process (PID=479) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:52,389] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:52,392] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:52,391] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:52,400] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:52,399] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:52,430] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:52,430] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:52,472] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:52,529] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:52,537] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:52,541] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.162 seconds
+[2020-06-30 10:34:53,387] {{scheduler_job.py:154}} INFO - Started process (PID=484) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:53,392] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:53,393] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:53,393] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:53,404] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:53,404] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:53,440] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:53,440] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:53,481] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:53,558] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:53,566] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:53,573] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.185 seconds
+[2020-06-30 10:34:54,381] {{scheduler_job.py:154}} INFO - Started process (PID=489) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:54,386] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:54,388] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:54,387] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:54,396] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:54,395] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:54,431] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:54,431] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:54,471] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:54,526] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:54,532] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:54,538] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.156 seconds
+[2020-06-30 10:34:55,408] {{scheduler_job.py:154}} INFO - Started process (PID=494) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:55,414] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:55,417] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:55,416] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:55,425] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:55,425] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:55,457] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:55,457] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:55,496] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:55,554] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:55,563] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:55,568] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.161 seconds
+[2020-06-30 10:34:56,424] {{scheduler_job.py:154}} INFO - Started process (PID=499) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:56,429] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:56,430] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:56,430] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:56,438] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:56,437] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:56,472] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:56,472] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:56,519] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:56,579] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:56,586] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:56,591] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.167 seconds
+[2020-06-30 10:34:57,440] {{scheduler_job.py:154}} INFO - Started process (PID=504) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:57,445] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:57,446] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:57,446] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:57,454] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:57,454] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:57,492] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:57,492] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:57,537] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:57,614] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:57,627] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:57,638] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.198 seconds
+[2020-06-30 10:34:58,459] {{scheduler_job.py:154}} INFO - Started process (PID=509) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:58,464] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:58,466] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:58,466] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:58,477] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:58,477] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:58,512] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:58,512] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:58,557] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:58,638] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:58,646] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:58,653] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.194 seconds
+[2020-06-30 10:34:59,481] {{scheduler_job.py:154}} INFO - Started process (PID=514) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:59,487] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:34:59,490] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:59,490] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:59,501] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:59,501] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:34:59,534] {{logging_mixin.py:112}} INFO - [2020-06-30 10:34:59,534] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:34:59,574] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:34:59,638] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:34:59,645] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:34:59,651] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.169 seconds
+[2020-06-30 10:35:00,489] {{scheduler_job.py:154}} INFO - Started process (PID=519) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:00,495] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:00,497] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:00,497] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:00,507] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:00,506] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:00,543] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:00,543] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:00,592] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:00,663] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:00,670] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:00,675] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.186 seconds
+[2020-06-30 10:35:01,493] {{scheduler_job.py:154}} INFO - Started process (PID=524) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:01,499] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:01,502] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:01,502] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:01,510] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:01,510] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:01,546] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:01,546] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:01,597] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:01,660] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:01,667] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:01,672] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.180 seconds
+[2020-06-30 10:35:02,516] {{scheduler_job.py:154}} INFO - Started process (PID=529) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:02,522] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:02,523] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:02,523] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:02,534] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:02,534] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:02,569] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:02,569] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:02,618] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:02,695] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:02,713] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:02,729] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.213 seconds
+[2020-06-30 10:35:03,527] {{scheduler_job.py:154}} INFO - Started process (PID=534) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:03,531] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:03,533] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:03,533] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:03,541] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:03,540] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:03,576] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:03,576] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:03,640] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:03,707] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:03,714] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:03,720] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.193 seconds
+[2020-06-30 10:35:04,524] {{scheduler_job.py:154}} INFO - Started process (PID=539) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:04,531] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:04,533] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:04,533] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:04,543] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:04,543] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:04,580] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:04,580] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:04,625] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:04,689] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:04,697] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:04,703] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.179 seconds
+[2020-06-30 10:35:05,545] {{scheduler_job.py:154}} INFO - Started process (PID=544) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:05,549] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:05,551] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:05,551] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:05,561] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:05,561] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:05,600] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:05,600] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:05,649] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:05,703] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:05,712] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:05,718] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:35:06,551] {{scheduler_job.py:154}} INFO - Started process (PID=549) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:06,562] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:06,564] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:06,564] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:06,574] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:06,573] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:06,625] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:06,625] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:06,678] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:06,757] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:06,769] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:06,778] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.227 seconds
+[2020-06-30 10:35:07,562] {{scheduler_job.py:154}} INFO - Started process (PID=554) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:07,569] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:07,571] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:07,571] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:07,580] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:07,580] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:07,627] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:07,627] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:07,670] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:07,728] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:07,735] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:07,740] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.177 seconds
+[2020-06-30 10:35:08,579] {{scheduler_job.py:154}} INFO - Started process (PID=559) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:08,585] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:08,588] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:08,587] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:08,597] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:08,596] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:08,630] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:08,630] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:08,674] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:08,736] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:08,744] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:08,749] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.170 seconds
+[2020-06-30 10:35:09,579] {{scheduler_job.py:154}} INFO - Started process (PID=564) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:09,585] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:09,587] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:09,587] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:09,609] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:09,608] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:09,765] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:09,765] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:09,834] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:09,921] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:09,934] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:09,943] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.364 seconds
+[2020-06-30 10:35:10,585] {{scheduler_job.py:154}} INFO - Started process (PID=569) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:10,593] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:10,596] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:10,595] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:10,608] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:10,608] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:10,661] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:10,661] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:10,703] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:10,763] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:10,772] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:10,779] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.194 seconds
+[2020-06-30 10:35:11,601] {{scheduler_job.py:154}} INFO - Started process (PID=574) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:11,607] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:11,609] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:11,609] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:11,622] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:11,621] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:11,658] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:11,658] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:11,701] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:11,765] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:11,773] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:11,780] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.180 seconds
+[2020-06-30 10:35:12,617] {{scheduler_job.py:154}} INFO - Started process (PID=579) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:12,622] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:12,624] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:12,623] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:12,631] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:12,631] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:12,669] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:12,668] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:12,705] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:12,764] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:12,771] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:12,776] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.159 seconds
+[2020-06-30 10:35:13,649] {{scheduler_job.py:154}} INFO - Started process (PID=584) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:13,653] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:13,657] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:13,656] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:13,664] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:13,664] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:13,696] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:13,696] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:13,735] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:13,796] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:13,803] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:13,808] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.160 seconds
+[2020-06-30 10:35:14,636] {{scheduler_job.py:154}} INFO - Started process (PID=589) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:14,645] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:14,647] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:14,647] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:14,658] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:14,658] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:14,692] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:14,692] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:14,732] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:14,793] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:14,802] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:14,807] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.171 seconds
+[2020-06-30 10:35:15,660] {{scheduler_job.py:154}} INFO - Started process (PID=594) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:15,667] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:15,670] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:15,670] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:15,679] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:15,678] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:15,714] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:15,714] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:15,753] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:15,819] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:15,827] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:15,832] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.172 seconds
+[2020-06-30 10:35:16,686] {{scheduler_job.py:154}} INFO - Started process (PID=599) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:16,690] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:16,692] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:16,692] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:16,699] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:16,699] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:16,732] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:16,732] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:16,776] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:16,839] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:16,848] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:16,853] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.167 seconds
+[2020-06-30 10:35:17,691] {{scheduler_job.py:154}} INFO - Started process (PID=604) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:17,696] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:17,698] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:17,698] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:17,705] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:17,705] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:17,745] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:17,745] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:17,784] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:17,843] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:17,851] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:17,856] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.165 seconds
+[2020-06-30 10:35:18,718] {{scheduler_job.py:154}} INFO - Started process (PID=609) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:18,725] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:18,727] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:18,727] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:18,735] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:18,735] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:18,769] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:18,769] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:18,812] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:18,875] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:18,882] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:18,888] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.170 seconds
+[2020-06-30 10:35:19,714] {{scheduler_job.py:154}} INFO - Started process (PID=614) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:19,718] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:19,720] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:19,720] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:19,727] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:19,727] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:19,765] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:19,765] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:19,806] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:19,867] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:19,874] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:19,881] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.167 seconds
+[2020-06-30 10:35:20,734] {{scheduler_job.py:154}} INFO - Started process (PID=619) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:20,740] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:20,742] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:20,742] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:20,750] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:20,750] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:20,788] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:20,788] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:20,829] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:20,894] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:20,901] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:20,906] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:35:21,735] {{scheduler_job.py:154}} INFO - Started process (PID=624) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:21,739] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:21,740] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:21,740] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:21,748] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:21,747] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:21,785] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:21,784] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:21,823] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:21,886] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:21,893] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:21,898] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.163 seconds
+[2020-06-30 10:35:22,751] {{scheduler_job.py:154}} INFO - Started process (PID=629) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:22,755] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:22,756] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:22,756] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:22,763] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:22,763] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:22,795] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:22,795] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:22,833] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:22,894] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:22,901] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:22,906] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.155 seconds
+[2020-06-30 10:35:23,750] {{scheduler_job.py:154}} INFO - Started process (PID=634) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:23,756] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:23,757] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:23,757] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:23,765] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:23,764] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:23,803] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:23,803] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:23,844] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:23,910] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:23,918] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:23,923] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.173 seconds
+[2020-06-30 10:35:24,781] {{scheduler_job.py:154}} INFO - Started process (PID=639) to work on /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:24,788] {{scheduler_job.py:1562}} INFO - Processing file /usr/local/airflow/dags/add_dag_bags.py for tasks to queue
+[2020-06-30 10:35:24,791] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:24,791] {{dagbag.py:396}} INFO - Filling up the DagBag from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:24,798] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:24,798] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_A/dags
+[2020-06-30 10:35:24,832] {{logging_mixin.py:112}} INFO - [2020-06-30 10:35:24,832] {{dagbag.py:396}} INFO - Filling up the DagBag from ./project_name_B/dags
+[2020-06-30 10:35:24,873] {{scheduler_job.py:1574}} INFO - DAG(s) dict_keys(['dummy_dag_project_B', 'dummy_dag_project_A']) retrieved from /usr/local/airflow/dags/add_dag_bags.py
+[2020-06-30 10:35:24,932] {{scheduler_job.py:1284}} INFO - Processing dummy_dag_project_B
+[2020-06-30 10:35:24,942] {{scheduler_job.py:447}} INFO - Skipping SLA check for <DAG: dummy_dag_project_B> because no tasks in DAG have SLAs
+[2020-06-30 10:35:24,950] {{scheduler_job.py:162}} INFO - Processing /usr/local/airflow/dags/add_dag_bags.py took 0.169 seconds

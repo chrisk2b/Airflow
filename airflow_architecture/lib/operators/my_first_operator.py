@@ -15,3 +15,12 @@ class MyFirstOperator(BaseOperator):
         minute = task_instance.xcom_pull('task_id2', key='minute')
         log.info(minute)
         log.info(self.param)
+
+class CustomDummyOperator(BaseOperator):
+
+    @apply_defaults
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+    def execute(self, context):
+        print('Hello from a custom operator')

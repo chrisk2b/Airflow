@@ -4,7 +4,7 @@ services:
 
   postgres_db:
     build:
-      context: ./metadatabase
+      context: ./airflow_architecture/services/metadatabase
       dockerfile: Dockerfile
     image: postgres_db
     container_name: airflow_metadatabase
@@ -13,7 +13,7 @@ services:
 
   webserver:
     build:
-      context: ./webserver
+      context: ./airflow_architecture/services/webserver
       dockerfile: Dockerfile
     image: airflow_webserver
     container_name: airflow_webserver
@@ -21,9 +21,12 @@ services:
     depends_on:
       - postgres_db
     volumes:
-      - ./dags:/usr/local/airflow/dags
-      - ./logs:/usr/local/airflow/logs
-      - ./airflow.cfg:/usr/local/airflow/airflow.cfg
+      - ./airflow_architecture/dags:/usr/local/airflow/dags
+      - ./airflow_architecture/logs:/usr/local/airflow/logs
+      - ./airflow_architecture/lib:/usr/local/airflow/lib
+      - ./project_name_A:/usr/local/airflow/project_name_A
+      - ./project_name_B:/usr/local/airflow/project_name_B
+      - ./airflow_architecture/airflow.cfg:/usr/local/airflow/airflow.cfg
     entrypoint: ""
     ports:
       - "8080:8080"
@@ -31,7 +34,7 @@ services:
 
   scheduler:
     build:
-      context: ./scheduler
+      context: ./airflow_architecture/services/scheduler
       dockerfile: Dockerfile
     image: airflow_scheduler
     container_name: airflow_scheduler
@@ -39,8 +42,11 @@ services:
     depends_on:
       - webserver
     volumes:
-      - ./dags:/usr/local/airflow/dags
-      - ./logs:/usr/local/airflow/logs
-      - ./airflow.cfg:/usr/local/airflow/airflow.cfg
+      - ./airflow_architecture/dags:/usr/local/airflow/dags
+      - ./airflow_architecture/logs:/usr/local/airflow/logs
+      - ./airflow_architecture/lib:/usr/local/airflow/lib
+      - ./project_name_A:/usr/local/airflow/project_name_A
+      - ./project_name_B:/usr/local/airflow/project_name_B
+      - ./airflow_architecture/airflow.cfg:/usr/local/airflow/airflow.cfg
     command: bash -c "airflow scheduler"
 

@@ -3,9 +3,11 @@ Code that goes along with the Airflow located at:
 http://airflow.readthedocs.org/en/latest/tutorial.html
 """
 from airflow import DAG
-from airflow.operators.bash_operator import BashOperator
+from airflow.operators.python_operator import PythonOperator
+from airflow.operators.dummy_operator import DummyOperator
 from datetime import datetime, timedelta
-
+from project_name_A.lib.dummy_package.dummy_class import DummyClass
+dummy_class = DummyClass()
 
 default_args = {
     "owner": "airflow",
@@ -22,27 +24,9 @@ default_args = {
     # 'end_date': datetime(2016, 1, 1),
 }
 
-dag = DAG("tutorial_A", default_args=default_args, schedule_interval=timedelta(1))
+dag = DAG("dummy_dag_project_A", default_args=default_args, schedule_interval=None)
 
-# t1, t2 and t3 are examples of tasks created by instantiating operators
-t1 = BashOperator(task_id="print_date", bash_command="date", dag=dag)
+hello_task = PythonOperator(task_id='hello_task', python_callable=dummy_class.foo, dag=dag)
+dummy_task = DummyOperator(task_id='dummy_task', retries=3, dag=dag)
 
-t2 = BashOperator(task_id="sleep", bash_command="sleep 5", retries=3, dag=dag)
-
-templated_command = """
-    {% for i in range(5) %}
-        echo "{{ ds }}"
-        echo "{{ macros.ds_add(ds, 7)}}"
-        echo "{{ params.my_param }}"
-    {% endfor %}
-"""
-
-t3 = BashOperator(
-    task_id="templated",
-    bash_command=templated_command,
-    params={"my_param": "Parameter I passed in"},
-    dag=dag,
-)
-
-t2.set_upstream(t1)
-t3.set_upstream(t1)
+dummy_task >> hello_task
